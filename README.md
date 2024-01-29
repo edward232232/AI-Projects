@@ -15,8 +15,7 @@ Here are the links to some of my AI-Projects Projects:
     
 
 3. [AI Images)](https://github.com/edward232232/AI_Images/tree/master/ai_images)
+   - This project showcases the integration of AI Azure Search Vision (Image analysis) application. It demonstrates the capabilities of image object detection, image-to-text          conversion, and Azure Blob for storage.
 
-This project showcases the integration of AI Azure Search Vision (Image analysis) application. It demonstrates the capabilities of image object detection, image-to-text conversion, and Azure Blob for storage.
-
-  + **Tech Stack:** JavaScript/Typescript, React, Python, Flask, Vite, Azure AI Vision
+    + **Tech Stack:** JavaScript/Typescript, React, Python, Flask, Vite, Azure AI Vision
 
